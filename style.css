@@ -19,7 +19,7 @@ p {
 /* Main */
 .main {
   text-align: center;
-  background: url("https://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg") no-repeat center center;
+  background: url("https://puu.sh/sGydt/c2f3a610e1.png") no-repeat center center;
   background-size: cover;
   height: 600px;
 }
@@ -64,7 +64,7 @@ p {
 }
 
 .supporting h2 {
-  color: #ffa800;
+  color: #000FFF;
   font-size: 20px;
   margin-bottom: 10px;
 }
@@ -74,7 +74,7 @@ p {
 }
 
 .supporting p {
-  color: #efefef;
+  color: #000FFF;
   font-size: 12px;
   line-height: 20px;
   margin-bottom: 20px;
@@ -91,7 +91,7 @@ p {
 
 /* Feature */
 .feature {
-  background: url("https://s3.amazonaws.com/codecademy-content/projects/move/feature.jpg") no-repeat center center;
+  background: url("https://puu.sh/sGyh1/4668daa040.png") no-repeat center center;
   background-size: cover;
   height: 600px;
   text-align: center;
@@ -111,7 +111,7 @@ p {
 
 /* Footer */
 .footer {
-  background: url("https://s3.amazonaws.com/codecademy-content/projects/move/footer.jpg") no-repeat center center;
+  background: url("https://puu.sh/sGyjc/5ea552a2c3.png") no-repeat center center;
   background-size: cover;
   height: 600px;
   text-align: center;
@@ -145,6 +145,6 @@ p {
 }
 
 a.btn:hover {
-  background:#ffa800;
+  background:#000FFF;
   color:#000;
 }
