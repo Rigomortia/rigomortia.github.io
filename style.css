@@ -50,6 +50,8 @@ p {
   display: inline-block;
 }
 
+.wrap { display: flex; justify-content: space-between; }
+
 /* Supporting */
 .supporting {
   background-color: #1c1c1c;
