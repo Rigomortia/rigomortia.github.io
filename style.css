@@ -52,7 +52,7 @@ p {
 
 .wrap { display: flex;
   justify-content: space-between;
-  padding: 50px;
+  padding: 0 50px;
 }
 
 /* Supporting */
