@@ -50,7 +50,10 @@ p {
   display: inline-block;
 }
 
-.wrap { display: flex; justify-content: space-between; }
+.wrap { display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
 
 /* Supporting */
 .supporting {
