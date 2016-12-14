@@ -131,6 +131,7 @@ p {
   height: auto;
   text-align: center;
   overflow: auto;
+  display: inline-block;
 }
 
 .footer .container {
