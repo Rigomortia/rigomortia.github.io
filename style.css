@@ -128,7 +128,7 @@ p {
 .footer {
   background: url("https://puu.sh/sGyjc/5ea552a2c3.png") no-repeat top center;
   background-size: 100% auto;
-  height: 600px;
+  height: auto;
   text-align: center;
 }
 
