@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: This be Vito's site.
+title: The Site of Vito Reiter.
 email: vito@compcorrect.cc
 description: > # this means to ignore newlines until "baseurl:"
-  Nick is no good.
+  Site of the Gods
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.vitoreiter.com" # the base hostname & protocol for your site
 instagram: v_reiter
