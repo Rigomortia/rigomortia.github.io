@@ -130,6 +130,7 @@ p {
   background-size: 100% auto;
   height: auto;
   text-align: center;
+  overflow: auto;
 }
 
 .footer .container {
