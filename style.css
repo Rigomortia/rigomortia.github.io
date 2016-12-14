@@ -122,8 +122,8 @@ p {
 
 /* Footer */
 .footer {
-  background: url("https://puu.sh/sGyjc/5ea552a2c3.png") no-repeat top left;
-  background-size: cover;
+  background: url("https://puu.sh/sGyjc/5ea552a2c3.png") no-repeat center center;
+  background-size: contain;
   height: 600px;
   text-align: center;
 }
